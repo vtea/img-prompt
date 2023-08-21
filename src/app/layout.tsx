@@ -1,6 +1,5 @@
 import React from "react";
 import { Metadata } from "next";
-import Script from "next/script";
 import "./globals.css";
 import { Navigation } from "./ui/Navigation";
 
