@@ -89,7 +89,7 @@ export function Navigation() {
                     </Col>
                     <Col>
                         <a
-                            href='/'
+                            href='https://github.com/Nanjiren01/AIChatWeb'
                             target='_blank'
                             rel='noopener noreferrer'
                             style={{ marginLeft: "10px" }}>
